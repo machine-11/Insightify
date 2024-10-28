@@ -1,0 +1,11 @@
+# pysqlite3-binary==0.5.4
+streamlit
+crewai_tools 
+requests
+crewai
+openai
+pandas
+python-dotenv
+tiktoken
+llama_index==0.11.19
+streamlit_pdf_viewer 
