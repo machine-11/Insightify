@@ -14,7 +14,7 @@ if not check_password():
 st.title("Quiz")
 st.subheader("All about buying new flats")
 
-st.sidebar.markdown(Insightify.md)
+# st.sidebar.markdown(Insightify.md)
 
 # Custom CSS for the buttons
 st.markdown("""

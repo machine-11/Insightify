@@ -13,7 +13,7 @@ if not check_password():
 
 st.title("Advisory")
 st.subheader("Understanding HDB flat eligibility and housing loan options")
-st.sidebar.markdown(Insightify.md)
+# st.sidebar.markdown(Insightify.md)
 # topic = st.text_input("Please enter a detailed query about HDB flat eligibility and housing loan options. The more information you provide, the more accurate and helpful our response will be.")
 
 topic = st.text_area("Please enter a detailed query about HDB flat eligibility and housing loan options. The more information you provide, the more accurate and helpful our response will be.",

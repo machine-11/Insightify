@@ -13,7 +13,7 @@ if not check_password():
 
 st.title("Chat")
 st.subheader("Buying procedure for resale flat")
-st.sidebar.markdown(Insightify.md)
+# st.sidebar.markdown(Insightify.md)
 
 if "messages" not in st.session_state.keys():  # Initialize the chat messages history
     st.session_state.messages = [
